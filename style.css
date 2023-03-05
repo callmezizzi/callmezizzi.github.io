@@ -3,6 +3,9 @@
 	padding-top: 7rem;
 	background-color: #C7C7C7;
 }
+section {
+	padding-top: 6rem;
+}
 @keyframes morph {
   0%,
   100% {
@@ -50,9 +53,6 @@
 }
 #contact {
 	background-color: #C7C7C7;
-}
-section {
-	padding-top: 6rem;
 }
 /* My Games Section */
 .games-box {
